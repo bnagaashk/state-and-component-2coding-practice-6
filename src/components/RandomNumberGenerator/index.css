@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.button2 {
+  height: 30px;
+  width: 70px;
+  background-color: #0b69ff;
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: auto;
+}
+.bg-card {
+  padding: 10px;
+  box-shadow: 10px;
+}
